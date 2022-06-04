@@ -1,3 +1,3 @@
-[visueel ontwerp](http://samedpolat.nl)
+[visueel ontwerp](https://github.com/svmcd/InteractionDesign/tree/main/visuele%20ontwerpen)
 
 [vertaling van visueel ontwerp naar prototype](http://samedpolat.nl)
